@@ -1,4 +1,4 @@
-import {Header} from "./components";
+import {Header, Ad} from "./components";
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
         <div className="wrapper">
             <Header />
             <div className='line' />
-            <div>dsvfxv</div>
+            <Ad />
         </div>
     </div>
   );
